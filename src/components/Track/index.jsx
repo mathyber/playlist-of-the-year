@@ -17,10 +17,12 @@ const Text = ({className, text}) => {
 const TrackCard = ({name, artist, imageLink}) => {
 
     return (
-        <div className='track background' style={{backgroundImage: `url(${imageLink})`}}>
-            <div className='track__info'>
-                <Text className={'track__artist'} text={artist}/>
-                <Text className={'track__name'} text={name}/>
+        <div className='track__ob background_orange mesh-gradient'>
+            <div className='track background' style={{backgroundImage: `url(${imageLink})`}}>
+                <div className='track__info'>
+                    <Text className={'track__artist'} text={artist}/>
+                    <Text className={'track__name'} text={name}/>
+                </div>
             </div>
         </div>
     )

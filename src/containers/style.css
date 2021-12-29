@@ -5,6 +5,8 @@
 
 .playlist__header {
     /*background-color: white;*/
+    background-size: 2000px 300px !important;
+    background-position: center;
     padding: 20px;
     border-bottom-left-radius: 40px;
     border-bottom-right-radius: 40px;
