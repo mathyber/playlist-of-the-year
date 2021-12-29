@@ -1,0 +1,31 @@
+.track {
+    border-radius: 30px;
+    padding: 20px;
+    margin: 10px;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 130px 130px;
+    height: 130px;
+    width: 30%;
+    min-width: 525px;
+}
+
+.track__info {
+    padding-left: 130px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    line-height: 1;
+    color: white;
+    text-transform: uppercase;
+}
+
+.track__artist {
+    margin-bottom: 7px;
+}
+
+.track__name {
+    font-weight: bold;
+}
