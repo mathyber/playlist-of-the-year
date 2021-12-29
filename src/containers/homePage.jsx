@@ -1,11 +1,12 @@
 import React from 'react';
 import './style.css';
 
-const Kek = () => {
+const HomePage = () => {
+
     return (
         <>
             kek
         </>
     )
 }
-export default Kek;
+export default HomePage;
