@@ -5,7 +5,7 @@ import TrackCard from "../components/Track";
 import Footer from "../components/Footer";
 
 const HomePage = () => {
-    console.log(jsonTracks.length)
+    console.log('Кол-во треков: ', jsonTracks.length)
     return (
         <div className='playlist background_orange mesh-gradient'>
             <div className='playlist__header background'>
