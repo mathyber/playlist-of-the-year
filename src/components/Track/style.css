@@ -1,6 +1,5 @@
 .track {
     border-radius: 30px;
-    padding: 20px;
     margin: 10px;
     background-position: left;
     background-repeat: no-repeat;
@@ -11,7 +10,8 @@
 }
 
 .track__info {
-    padding-left: 130px;
+    padding-left: 150px;
+    padding-right: 20px;
     font-size: 25px;
     display: flex;
     flex-direction: column;

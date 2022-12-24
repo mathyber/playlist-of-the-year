@@ -14,7 +14,7 @@ const HomePage = () => {
             </div>
             <div className='playlist__tracks'>
                 {
-                    jsonTracks.map(track => <TrackCard {...track}/>)
+                    jsonTracks.map((track, i) => <TrackCard key={i} {...track}/>)
                 }
             </div>
             <Footer/>
