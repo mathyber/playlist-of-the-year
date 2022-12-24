@@ -9,7 +9,7 @@ const HomePage = () => {
     return (
         <div className='playlist background_orange mesh-gradient'>
             <div className='playlist__header background'>
-                <div className='playlist__text playlist__title'>Мой плейлист года 2021</div>
+                <div className='playlist__text playlist__title'>Мой плейлист года 2022</div>
                 <div className='playlist__text playlist__description'>@mathyber</div>
             </div>
             <div className='playlist__tracks'>
