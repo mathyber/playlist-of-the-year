@@ -1,6 +1,6 @@
 {
   "name": "tournirken-playlist-of-the-year",
-  "version": "2021.9",
+  "version": "2022",
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
