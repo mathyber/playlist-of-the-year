@@ -1,15 +1,8 @@
-import React, {useEffect, useRef} from 'react';
+import React, {useRef} from 'react';
 import './style.css';
 
 const Text = ({className, text}) => {
     const ref = useRef(null);
-    //
-    // useEffect(() => {
-    //     if (ref) {
-    //         console.log(ref.current.scrollWidth)
-    //     }
-    // }, [ref]);
-
     return <div className={className} ref={ref}>{text}</div>
 }
 

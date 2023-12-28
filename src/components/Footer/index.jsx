@@ -5,7 +5,7 @@ const Footer = () => {
 
     return (
         <div className='background footer-element'>
-            TOURNIRKEN / mathyber, 2022
+            TOURNIRKEN / mathyber, 2023
         </div>
     )
 }
