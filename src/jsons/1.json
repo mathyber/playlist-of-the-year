@@ -1,13 +1,48 @@
 [
   {
-    "artist": "Umami Tsunami",
-    "name": "Geronimo",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/99/93/7e/99937ed3-d776-da88-ea96-5e0b63d19c31/7072563014001_Cover.jpg/400x400cc.jpg"
+    "artist": "Mae Muller",
+    "name": "I Wrote A Song",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/e9/2b/13e92b06-c250-368e-0037-3fc907d2d14a/23UMGIM15461.rgb.jpg/316x316bb.webp"
   },
   {
-    "artist": "JONE",
-    "name": "Ekko inni meg",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6b/4b/9b/6b4b9b1c-5f85-7673-687b-c36eff8075df/22UM1IM42877.rgb.jpg/400x400cc.jpg"
+    "artist": "ANAZED",
+    "name": "Товарищ Сталин",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f2/bb/81/f2bb81cc-49d3-dbc3-55b7-e9bdb202c166/cover.jpg/316x316bb.webp"
+  },
+  {
+    "artist": "Smash Into Pieces",
+    "name": "Six Feet Under",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/b9/e6/7cb9e6fb-e20d-bdc1-2103-95daca6438b5/197187676200.jpg/316x316bb.webp"
+  },
+  {
+    "artist": "Bassjackers (L3N Remix)",
+    "name": "Wrong or Right (The Riddle)",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/79/ca/e379cae9-5231-8064-aa41-061f3dd57005/5054197723919.jpg/316x316bb.webp"
+  },
+  {
+    "artist": "Коста Лакоста",
+    "name": "Поневоле",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ab/57/43/ab5743fb-6757-ff02-4732-6b9651e71b10/8720765713619.png/316x316bb.webp"
+  },
+  {
+    "artist": "DAASHA",
+    "name": "дождь фонари",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5b/26/37/5b26377c-7dad-b664-6863-9451ed565019/cover.jpg/316x316bb.webp"
+  },
+  {
+    "artist": "RAIZHELL",
+    "name": "Nitrous",
+    "imageLink": "https://i1.sndcdn.com/artworks-MGyK0mkcwTqH-0-t500x500.jpg"
+  },
+  {
+    "artist": "SHADXWBXRN",
+    "name": "ANTHEM",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/51/e1/8e51e159-4c59-3824-68eb-13bda3addf76/197189459252.jpg/316x316bb.webp"
+  },
+  {
+    "artist": "c152",
+    "name": "PHONK DXNCE",
+    "imageLink": "https://i.scdn.co/image/ab67616d00001e023bcc66f076b58f02e1e2eead"
   },
   {
     "artist": "Rosa Chemical, bdope",
@@ -25,64 +60,14 @@
     "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3a/52/71/3a527110-0e7d-18ac-7158-600a383f77f4/196589811974.jpg/316x316bb.webp"
   },
   {
-    "artist": "Maria Celin",
-    "name": "FREYA",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/dd/52/6e/dd526e8a-d078-a6c7-69fe-6ffb0f12a6a2/7640181273317_cover.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "Vesna",
-    "name": "My Sister's Crown",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/63/57/3d/63573da4-5ad1-3695-a3a7-76c389ac8c42/23UMGIM07164.rgb.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "Smash Into Pieces",
-    "name": "Six Feet Under",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/b9/e6/7cb9e6fb-e20d-bdc1-2103-95daca6438b5/197187676200.jpg/316x316bb.webp"
-  },
-  {
     "artist": "Pasha Parfeni",
     "name": "Soarele și luna",
     "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/16/9f/52/169f5218-85ea-9dcc-3e75-85ae3f6b69f4/artwork.jpg/316x316bb.webp"
   },
   {
-    "artist": "Marcus & Martinus",
-    "name": "Air",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ef/d2/fc/efd2fcb6-4a24-573d-95ac-73ebfe518508/23UMGIM05952.rgb.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "Mae Muller",
-    "name": "I Wrote A Song",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/e9/2b/13e92b06-c250-368e-0037-3fc907d2d14a/23UMGIM15461.rgb.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "Jann",
-    "name": "Gladiator",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/24/0b/a0240b89-096c-3ec6-e99c-850402cde1ae/cover.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "Noa Kirel",
-    "name": "Unicorn",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/92/24/6a9224b3-79ec-7d7b-d56f-25cdd365225f/7290118549055.png/316x316bb.webp"
-  },
-  {
-    "artist": "Антитіла",
-    "name": "Фортеця Бахмут",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/77/cb/4c/77cb4cae-5954-1a37-8358-dcf7a99bfe17/197187969371.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "RAIZHELL",
-    "name": "Nitrous",
-    "imageLink": "https://i1.sndcdn.com/artworks-MGyK0mkcwTqH-0-t500x500.jpg"
-  },
-  {
-    "artist": "ANAZED",
-    "name": "Товарищ Сталин",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f2/bb/81/f2bb81cc-49d3-dbc3-55b7-e9bdb202c166/cover.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "Коста Лакоста",
-    "name": "Поневоле",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ab/57/43/ab5743fb-6757-ff02-4732-6b9651e71b10/8720765713619.png/316x316bb.webp"
+    "artist": "Maria Celin",
+    "name": "FREYA",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/dd/52/6e/dd526e8a-d078-a6c7-69fe-6ffb0f12a6a2/7640181273317_cover.jpg/316x316bb.webp"
   },
   {
     "artist": "DAASHA",
@@ -90,29 +75,14 @@
     "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/99/a7/6f/99a76f6e-3940-82ff-9df7-14c576bd06b5/cover.jpg/316x316bb.webp"
   },
   {
+    "artist": "Oxxxymiron",
+    "name": "Лига Опасного Интернета",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/30/b0/53/30b053cf-c325-47a4-f1c7-c73f3008d0bf/197189716515.jpg/316x316bb.webp"
+  },
+  {
     "artist": "DAASHA",
     "name": "Не в сети",
     "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3d/78/fe/3d78febd-3b7d-aff2-fd10-d99f034061ca/cover.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "Blasterjaxx, GISHIN, The Way",
-    "name": "Warriors",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5c/39/1c/5c391cb9-bf9b-2c4b-c564-a76577b6ae4b/5054197710834.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "KSHMR",
-    "name": "Heartbeat",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/93/21/0e93214b-26ac-ac27-fb50-0debde0d7a6a/5054197708480.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "DAASHA",
-    "name": "дождь фонари",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5b/26/37/5b26377c-7dad-b664-6863-9451ed565019/cover.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "DAASHA",
-    "name": "Лето Летай",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/86/69/c686692d-02cb-1bc8-4222-f9f5857bc5c5/cover.jpg/316x316bb.webp"
   },
   {
     "artist": "KUURO & Bianca",
@@ -120,19 +90,14 @@
     "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/71/be/81/71be811f-4081-5886-8d9a-1d286ed13159/742779548023.png/316x316bb.webp"
   },
   {
-    "artist": "Bassjackers & Teddy Bee",
-    "name": "We Ride",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/d8/70/b5d8707d-41fc-0e85-1902-eba8966113f8/5054197739002.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "Oxxxymiron",
-    "name": "Лига Опасного Интернета",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/30/b0/53/30b053cf-c325-47a4-f1c7-c73f3008d0bf/197189716515.jpg/316x316bb.webp"
-  },
-  {
     "artist": "skyfall beats, silent anthem",
     "name": "arcanum",
     "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4f/27/18/4f271832-ac2e-92e7-5f9b-990694037c29/cover.jpg/316x316bb.webp"
+  },
+  {
+    "artist": "Blasterjaxx, GISHIN, The Way",
+    "name": "Warriors",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5c/39/1c/5c391cb9-bf9b-2c4b-c564-a76577b6ae4b/5054197710834.jpg/316x316bb.webp"
   },
   {
     "artist": "Oxxxymiron",
@@ -145,16 +110,6 @@
     "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7f/05/a5/7f05a5f9-9b3e-5032-0b7e-1b0f7f2f7d78/cover.jpg/316x316bb.webp"
   },
   {
-    "artist": "Bassjackers & Diètro feat. Kazdan",
-    "name": "Arabian Nights Part II",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ec/20/dd/ec20dd95-b3ae-77ff-1f18-21a9d00d1267/197187945740.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "Bassjackers (L3N Remix)",
-    "name": "Wrong or Right (The Riddle)",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/79/ca/e379cae9-5231-8064-aa41-061f3dd57005/5054197723919.jpg/316x316bb.webp"
-  },
-  {
     "artist": "GSPD, МУККА",
     "name": "БИПОЛЯРНАЯ ЗВЕЗДА",
     "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/e1/e2/c6e1e2a0-c805-24bb-e52f-98e7c8849afd/cover.jpg/316x316bb.webp"
@@ -165,19 +120,9 @@
     "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/43/43/07434360-5dc3-a68f-361c-4a64c3007b71/197189867910.jpg/316x316bb.webp"
   },
   {
-    "artist": "Wolfpack, Futuristic Polar Bears, Chris Burke",
-    "name": "When I Wake Up",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/28/f6/36/28f63661-4494-d15b-86c9-00172fc62662/197189733987.jpg/316x316bb.webp"
-  },
-  {
     "artist": "Infraction",
     "name": "Metaphonk",
     "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/40/59/f6/4059f629-4f32-b2a7-38c0-8bbdd9e77273/055120480584.png/316x316bb.webp"
-  },
-  {
-    "artist": "Oxxxymiron feat. Брутто",
-    "name": "Прекрасное Далёко",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/32/7b/7a327b55-6740-d76c-37bc-3de2b117483f/761861298417.jpg/316x316bb.webp"
   },
   {
     "artist": "Killer Hertz",
@@ -185,29 +130,9 @@
     "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/fa/40/2efa402e-19f5-00b5-887a-011477acab58/5056685928844.png/316x316bb.webp"
   },
   {
-    "artist": "SHADXWBXRN",
-    "name": "ANTHEM",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/51/e1/8e51e159-4c59-3824-68eb-13bda3addf76/197189459252.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "Laritovski",
-    "name": "Ptichk",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c7/1a/4c/c71a4c77-96b5-ce73-28b6-b16a63919b16/0.jpg/316x316bb.webp"
-  },
-  {
-    "artist": "c152",
-    "name": "PHONK DXNCE",
-    "imageLink": "https://i.scdn.co/image/ab67616d00001e023bcc66f076b58f02e1e2eead"
-  },
-  {
-    "artist": "KXDVK, Liewsenn",
-    "name": "U KNOW WHAT TO DO",
-    "imageLink": "https://sun9-47.userapi.com/impf/HKJptubAgZWIPKBUroqUOv3Jx_EyOuGgGNPO-w/Or32JAyy_pA.jpg?size=400x400&quality=96&sign=b2828d36aa171451c97ab32622a14cb2&type=audio"
-  },
-  {
-    "artist": "ANAZED",
-    "name": "Мама",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5e/cf/fd/5ecffd08-5801-0c44-441a-653a89e0ea2c/cover.jpg/316x316bb.webp"
+    "artist": "Антитіла",
+    "name": "Фортеця Бахмут",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/77/cb/4c/77cb4cae-5954-1a37-8358-dcf7a99bfe17/197187969371.jpg/316x316bb.webp"
   },
   {
     "artist": "SXORPUS, GXRETSKY",
@@ -215,13 +140,28 @@
     "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/f2/c6/49f2c66b-7c6c-a22e-3e00-e3647e689784/cover.jpg/316x316bb.webp"
   },
   {
-    "artist": "ХИРОСИМА",
-    "name": "Аддикция",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3f/bf/c8/3fbfc84d-37f0-8d33-4b3e-af2cf0d26b5c/4657783596976.jpg/316x316bb.webp"
+    "artist": "DAASHA",
+    "name": "Лето Летай",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/86/69/c686692d-02cb-1bc8-4222-f9f5857bc5c5/cover.jpg/316x316bb.webp"
+  },
+  {
+    "artist": "KXDVK, Liewsenn",
+    "name": "U KNOW WHAT TO DO",
+    "imageLink": "https://sun9-47.userapi.com/impf/HKJptubAgZWIPKBUroqUOv3Jx_EyOuGgGNPO-w/Or32JAyy_pA.jpg?size=400x400&quality=96&sign=b2828d36aa171451c97ab32622a14cb2&type=audio"
+  },
+  {
+    "artist": "Vesna",
+    "name": "My Sister's Crown",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/63/57/3d/63573da4-5ad1-3695-a3a7-76c389ac8c42/23UMGIM07164.rgb.jpg/316x316bb.webp"
+  },
+  {
+    "artist": "JONE",
+    "name": "Ekko inni meg",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6b/4b/9b/6b4b9b1c-5f85-7673-687b-c36eff8075df/22UM1IM42877.rgb.jpg/400x400cc.jpg"
   },
   {
     "artist": "ХИРОСИМА",
-    "name": "Вечность",
-    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5b/35/e2/5b35e2e3-f809-9155-8cdb-d8b6739c80e3/2_001_KHIROSIMA-Vechnost.jpg/316x316bb.webp"
+    "name": "Аддикция",
+    "imageLink": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3f/bf/c8/3fbfc84d-37f0-8d33-4b3e-af2cf0d26b5c/4657783596976.jpg/316x316bb.webp"
   }
 ]
